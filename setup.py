@@ -39,7 +39,6 @@ setup(
     zip_safe=False,
     include_package_data=True,
     platforms='any',
-    long_description=fread('README.rst'),
     license='BSD',
     install_requires=[
         'Flask',
